@@ -37,5 +37,5 @@ Tive o orgulho de realizar o **trabalho pioneiro e criar a fundação de código
 
 ## 🤝 Vamos nos conectar e conversar sobre código!
 
-* **LinkedIn:** [Acesse meu perfil profissional](https://linkedin.com) — *(Substitua pelo link do seu perfil)*
-* **E-mail de Contato:** seu-email@gmail.com — *(Substitua pelo seu melhor e-mail)*
+* **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/joão-vitor-meyer-aab04a28b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* **E-mail de Contato:** joaomeyer41@gmail.com
