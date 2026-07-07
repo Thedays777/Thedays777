@@ -1,41 +1,41 @@
 # 👋 Olá, eu sou o João Meyer!
-### Desenvolvedor Backend | Lógica de Programação | Node.js & JavaScript
+### Desenvolvedor Backend | Node.js & JavaScript
 
-Sou desenvolvedor focado em estruturar a inteligência, arquitetura e lógica por trás de sistemas robustos e organizados. Gosto de criar bases sólidas de código para que aplicações funcionem de forma limpa, segura e escalável.
+Estou focado em entender e estruturar a lógica por trás de servidores e APIs. Gosto de resolver problemas de código e criar bases organizadas para que as aplicações funcionem de forma limpa e eficiente.
 
 ---
 
-## 📚 Projeto em Destaque: Aurora Library
+## 📚 Projeto que participei: Aurora Library
 
-Tive o orgulho de realizar o **trabalho pioneiro e criar a fundação de código** do projeto **[Aurora Library](https://github.com)**, um sistema web open-source focado em mudar a realidade do gerenciamento de bibliotecas em escolas públicas e privadas.
+Tive a oportunidade de realizar o **trabalho pioneiro e criar a fundação de código** do projeto **[Aurora Library](https://github.com)**, um sistema web open-source criado para o gerenciamento de bibliotecas escolares.
 
-### 🛠️ Minhas Contribuições no Ecossistema do Projeto:
-* **Desenvolvimento Pioneiro:** Estabeleci as primeiras linhas de código, estruturando a lógica inicial de backend.
-* **Criação da Base:** Desenvolvi os alicerces estruturais sobre os quais todo o sistema atual foi sustentado e expandido.
-* **Padrões de Projeto:** Foco em arquitetura limpa e componentizada para viabilizar que uma comunidade inteira de código aberto pudesse colaborar posteriormente.
+### 🛠️ Minhas Contribuições no Projeto:
+* **Fundações do código:** Ajudei a estruturar a base inicial do código onde o backend começou a ser desenvolvido.
+* **Lógica inicial:** Escrevi as primeiras linhas da lógica de backend que permitiram o projeto sair do papel.
+* **Código para a comunidade:** Organizei a estrutura base para viabilizar que outros desenvolvedores da comunidade pudessem colaborar posteriormente.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 🖥️ Backend & Banco de Dados
-```img
-- Node.js (Ambientes de execução escaláveis)
-- JavaScript / ES6 (Lógica de programação avançada)
-- Express (Estruturação e roteamento de APIs)
-- MongoDB (Modelagem NoSQL focada em flexibilidade de dados)
+```text
+- Node.js (Ambiente de execução backend)
+- JavaScript (Lógica de programação)
+- Express (Roteamento e estruturação de APIs)
+- MongoDB (Banco de dados NoSQL para testes locais)
 ```
 
 ### 🧰 Ferramentas de Desenvolvimento
-```img
-- Git & GitHub (Controle de versão e trabalho colaborativo)
-- VS Code (Ambiente principal de desenvolvimento)
-- Terminal / CLI (Automação de scripts e execução de serviços)
+```text
+- Git & GitHub (Controle de versão e histórico de código)
+- VS Code (Editor de código principal)
+- Terminal / CLI (Execução de scripts e serviços locais)
 ```
 
 ---
 
 ## 🤝 Vamos nos conectar e conversar sobre código!
 
-* **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/joão-vitor-meyer-aab04a28b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/jo%C3%A3o-vitor-meyer-aab04a28b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * **E-mail de Contato:** joaomeyer41@gmail.com
