@@ -15,27 +15,41 @@
 <!-- Seção Sobre Mim -->
 ## 👤 Sobre Mim
 
-- 🚀 Atualmente focado em aprender desenvolvimento backend e integração com bancos de dados relacionais e NoSQL.
-- 💾 Estudando intensamente **MongoDB** rodando direto do pendrive para testes ágeis!
-- ⚡ Curiosidade: Gosto de resolver problemas de infraestrutura local e otimizar ambientes de desenvolvimento.
+- 💻 Sou desenvolvedor focado em construir a inteligência, segurança e arquitetura de sistemas (**Backend**).
+- 🚀 Desenvolvi toda a estrutura de backend do **[Aurora Library](https://github.com/RicardoD-Argenta/auroraLibrary)**, um sistema open-source de gerenciamento para escolas públicas e privadas.
+- 💾 Experiência prática na criação de APIs estruturadas, rotas eficientes e integração com bancos de dados.
+
+<hr />
+
+<!-- Destaque do Projeto Principal -->
+## 📚 Projeto em Destaque: Aurora Library
+
+<div align="center">
+  <img src="https://vercel.app" alt="Aurora Library Repo" />
+</div>
+
+### 🛠️ Minhas Contribuições no Projeto (Backend):
+* **Arquitetura de API:** Estruturação das rotas e controladores para o gerenciamento de livros, usuários e empréstimos.
+* **Regras de Negócio:** Desenvolvimento da lógica interna do sistema para garantir o fluxo correto da biblioteca.
+* **Escalabilidade:** Código limpo e componentizado focado em permitir a colaboração de novos desenvolvedores da comunidade open source.
 
 <hr />
 
 <!-- Seção de Tecnologias (Badges com Ícones) -->
 ## 🛠️ Tecnologias e Ferramentas
 
-### Frontend
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-
 ### Backend & Banco de Dados
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
-### Ferramentas
+### Frontend (Suporte & Integração)
 <img src="https://shields.io" /> <img src="https://shields.io" />
+
+### Ferramentas & DevOps
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 <hr />
 
-<!-- Gráficos Animados de Estatísticas do GitHub (Substitua SEU_USUARIO) -->
+<!-- Gráficos Animados de Estatísticas do GitHub -->
 ## 📊 Minhas Estatísticas
 
 <div align="center">
