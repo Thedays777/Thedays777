@@ -1,76 +1,41 @@
-<!-- Banner de Boas-Vindas com Animação -->
-<div align="center">
-  <img src="https://vercel.app👋&fontSize=40&animation=fadeIn" width="100%" />
-</div>
+# 👋 Olá, eu sou o João Meyer!
+### Desenvolvedor Backend | Lógica de Programação | Node.js & JavaScript
 
-<br />
+Sou desenvolvedor focado em estruturar a inteligência, arquitetura e lógica por trás de sistemas robustos e organizados. Gosto de criar bases sólidas de código para que aplicações funcionem de forma limpa, segura e escalável.
 
-<!-- Subtítulo Animado / Status -->
-<div align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</div>
+---
 
-<hr />
-
-<!-- Seção Sobre Mim -->
-## 👤 Sobre Mim
-
-- 💻 Sou desenvolvedor focado em desenvolvimento backend, arquitetura de sistemas e lógica de programação.
-- 🚀 Fui o responsável por criar a **base fundamental e o trabalho pioneiro de backend** do projeto **[Aurora Library](https://github.com)**.
-- 💾 Apaixonado por estruturar as fundações de softwares organizados, limpos e escaláveis.
-
-<hr />
-
-<!-- Destaque do Projeto Principal -->
 ## 📚 Projeto em Destaque: Aurora Library
 
-O Aurora Library é um sistema open-source de gerenciamento para escolas públicas e privadas. Meu papel no ecossistema desse software foi vital:
+Tive o orgulho de realizar o **trabalho pioneiro e criar a fundação de código** do projeto **[Aurora Library](https://github.com)**, um sistema web open-source focado em mudar a realidade do gerenciamento de bibliotecas em escolas públicas e privadas.
 
-* **Trabalho Pioneiro:** Estabeleci as fundações lógicas e estruturais do projeto inicial.
-* **Criação da Base:** Desenvolvi os alicerces de código sobre os quais todo o sistema atual foi construído.
-* **Arquitetura Inicial:** Planejamento backend focado em viabilizar uma ferramenta gratuita e acessível para o ambiente escolar.
+### 🛠️ Minhas Contribuições no Ecossistema do Projeto:
+* **Desenvolvimento Pioneiro:** Estabeleci as primeiras linhas de código, estruturando a lógica inicial de backend.
+* **Criação da Base:** Desenvolvi os alicerces estruturais sobre os quais todo o sistema atual foi sustentado e expandido.
+* **Padrões de Projeto:** Foco em arquitetura limpa e componentizada para viabilizar que uma comunidade inteira de código aberto pudesse colaborar posteriormente.
 
-<hr />
+---
 
-<!-- Seção de Tecnologias (Badges com Ícones) -->
 ## 🛠️ Tecnologias e Ferramentas
 
-### Backend & Banco de Dados
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+### 🖥️ Backend & Banco de Dados
+```img
+- Node.js (Ambientes de execução escaláveis)
+- JavaScript / ES6 (Lógica de programação avançada)
+- Express (Estruturação e roteamento de APIs)
+- MongoDB (Modelagem NoSQL focada em flexibilidade de dados)
+```
 
-### Frontend & Outros
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+### 🧰 Ferramentas de Desenvolvimento
+```img
+- Git & GitHub (Controle de versão e trabalho colaborativo)
+- VS Code (Ambiente principal de desenvolvimento)
+- Terminal / CLI (Automação de scripts e execução de serviços)
+```
 
-<hr />
+---
 
-<!-- Gráficos Animados de Estatísticas do GitHub (Apontando para thedays777) -->
-## 📊 Minhas Estatísticas
+## 🤝 Vamos nos conectar e conversar sobre código!
 
-<div align="center">
-  <!-- Cartão de Status Geral -->
-  <img height="180em" src="https://vercel.app" />
-  
-  <!-- Cartão de Linguagens Mais Usadas -->
-  <img height="180em" src="https://vercel.app" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Gráfico de Streak -->
-  <img height="180em" src="https://herokuapp.com" />
-</div>
-
-<hr />
-
-<!-- Seção de Contato -->
-## 🤝 Vamos nos conectar!
-
-<div align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" />
-  </a>
-  <a href="mailto:seu-email@gmail.com">
-    <img src="https://shields.io" />
-  </a>
-</div>
+* **LinkedIn:** [Acesse meu perfil profissional](https://linkedin.com) — *(Substitua pelo link do seu perfil)*
+* **E-mail de Contato:** seu-email@gmail.com — *(Substitua pelo seu melhor e-mail)*
